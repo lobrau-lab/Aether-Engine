@@ -1,0 +1,6 @@
+{
+  "name": "Aether Engine",
+  "description": "AI-Native Game Studio spark for asset generation, character intelligence, TUI skeletal control, and dynamic storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
